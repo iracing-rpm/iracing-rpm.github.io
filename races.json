@@ -1,0 +1,19 @@
+{
+  "races": [
+    {
+      "race_num": 8,
+      "name": "Hungaro",
+      "subsession_id": 50312264
+    },
+    {
+      "race_num": 9,
+      "name": "Suzuka",
+      "subsession_id": 50492800
+    },
+    {
+      "race_num": 10,
+      "name": "Nurb",
+      "subsession_id": 50622510
+    }
+  ]
+}
